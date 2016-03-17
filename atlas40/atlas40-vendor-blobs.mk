@@ -1,4 +1,4 @@
-# Copyright (C) 2014 The CyanogenMod Project
+# Copyright (C) 2016 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -95,6 +95,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/zte/atlas40/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/zte/atlas40/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
+    vendor/zte/atlas40/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/zte/atlas40/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/zte/atlas40/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/zte/atlas40/proprietary/lib/libSimCardAuth.so:system/lib/libSimCardAuth.so \
